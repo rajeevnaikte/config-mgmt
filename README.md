@@ -7,5 +7,6 @@ This app will read all properties from given git repository, and on UI it will r
 
 # Installation
 - Download files from dist folder.
-- Edit app.properties with your configurations git repo details
+- Edit application.properties with your configurations git repo details
 - cmd>java -jar config-mgmt-0.0.1-SNAPSHOT.jar
+- In-memory user/pass available are - rajeevn/root and user/root
